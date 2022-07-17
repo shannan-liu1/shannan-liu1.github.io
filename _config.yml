@@ -6,7 +6,7 @@
 name: Shannan Liu
 
 # Short bio or description (displayed in the header)
-description: B.A. Candidate in Business Economics | UCLA Class of 2022
+description: Master of Buisness Analytics at MIT Sloan | Class of 2023
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/PIC16B/PIC16B.github.io/master/images/ucla-math.png
@@ -15,16 +15,16 @@ avatar: https://raw.githubusercontent.com/PIC16B/PIC16B.github.io/master/images/
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
+  dribbble: 
   email: shannan.liu@gmail.com
-  facebook:
-  flickr:
+  facebook: 
+  flickr: 
   github: shannan-liu1/shannan-liu1.github.io # replace with your repo
-  instagram:
-  linkedin:
+  instagram: 
+  linkedin: https://www.linkedin.com/in/shannan-liu/
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter:
+  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -45,7 +45,7 @@ url:
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: ""
+baseurl: 
 
 #
 # !! You don't need to change any of the configuration flags below !!
