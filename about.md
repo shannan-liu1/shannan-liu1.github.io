@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<div align = "right">![](/images/professional-profile.jpeg){:height="400px"}</div>
+<div align = "right">![](/images/professional-profile.jpeg){:height="300px"}</div>
 
 <div align = "left">Hello! My name is Shannan. I'm an aspiring data scientist.
 
