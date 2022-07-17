@@ -3,14 +3,18 @@ layout: page
 title: About
 permalink: /about/
 ---
-Hello I am Puppycat, PhD. I am a Python master.
+Hello! My name is Shannan. I'm an aspiring data scientist.
 
-## More information
+I graduated from UCLA in 2022 with a B.A. in Business Economics. At UCLA, I conducted research on the relationships between market events and the returns of various securities, and I applied machine learning to generate portfolio weights and signals for algorithmic trading strategies. Meanwhile, I accelerated the growth of *International Bruins in Business*, one of UCLAs premier business clubs, where I spearheaded initiatives focused on data science and founded UCLA's leading quantitative finance community. 
 
-My favorite food is spinach. I like to SCREAM when I don't get my way but that's okay because I'm cute.
+ I'm currently enrolled in the Master of Business Analytics program at MIT Sloan through which I aim to deepen my knowledge of machine learning, optimization, analytics, and operations research. 
+ 
+ I have experience in data analytics, financial analysis, business development, and sales. I'm interested in finance; logistics and supply chain analytics; and natural language processing. Upon graduation, I intend to pursue a career as a data scientist. 
 
-![](/images/puppycat.jpg){:height="300px"}
+On this site, I share my research and projects. You'll find work on sentiment analysis, web scraping, financial modelling, 
+
+![](/images/professional-profile.jpg){:height="400px"}
 
 ### Contact me
 
-[puppycat@puppycat.org](mailto:puppycat@puppycat.org)
+Please feel free to reach out to me.
