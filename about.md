@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-<div align = "right">![](/images/professional-profile.jpeg){:height="300px"}</div>
+![](/images/professional-profile.jpeg){:height="300px"}
 
-<div align = "left">Hello! My name is Shannan. I'm an aspiring data scientist.
+Hello! My name is Shannan. I'm an aspiring data scientist.
 
 I graduated from UCLA in 2022 with a B.A. in Business Economics. At UCLA, I conducted research on the relationships between market events and the returns of various securities, and I applied machine learning to generate portfolio weights and signals for algorithmic trading strategies. Meanwhile, I accelerated the growth of *International Bruins in Business*, one of UCLAs premier business clubs, where I spearheaded initiatives focused on data science and founded UCLA's leading quantitative finance community. 
 
@@ -14,7 +14,7 @@ I graduated from UCLA in 2022 with a B.A. in Business Economics. At UCLA, I cond
  
  I have experience in data analytics, financial analysis, business development, and sales. I'm interested in finance; logistics and supply chain analytics; and natural language processing. Upon graduation, I intend to pursue a career as a data scientist. 
 
-On this site, I share my research and projects. You'll find work on sentiment analysis, web scraping, financial modelling, and more.</div>
+On this site, I share my research and projects. You'll find work on sentiment analysis, web scraping, financial modelling, and more.
 
 ### Contact me
 
