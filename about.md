@@ -13,7 +13,7 @@ I graduated from UCLA in 2022 with a B.A. in Business Economics. At UCLA, I cond
 
 On this site, I share my research and projects. You'll find work on sentiment analysis, web scraping, financial modelling, 
 
-![](/images/professional-profile.jpg){:height="400px"}
+![](/images/professional-profile.jpeg){:height="400px"}
 
 ### Contact me
 
