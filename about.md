@@ -17,4 +17,4 @@ On this site, I share my research and projects. You'll find work on sentiment an
 
 ### Contact me
 
-Please feel free to reach out to me.
+Please feel free to reach out to me on Github or LinkedIn.
